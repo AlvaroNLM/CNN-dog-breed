@@ -4,4 +4,6 @@ In this project, I define a CNN to classify different dog breeds from the datase
 
 Consequently, I also (i) add explainability in the defined CNN, and (ii) load a pre-trained model to classific the dog breeds.
 
-I attach the Jupyter notebook (``CNN_dogs.ipynb``) and also the environment info (.yml file).
+I attach the Jupyter notebook (``CNN_dogs.ipynb``) and also the environment info:
+* ``environment.yml``.
+* ``requirements.txt``.
